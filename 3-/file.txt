@@ -1,0 +1,50 @@
+A resposta final é 77
+
+k=1 
+incrementa k para 2
+SOMA= 0+2=2
+
+k=2 
+incrementa k para 3
+SOMA= 2+3=5
+
+k=3 
+incrementa k para 4
+SOMA= 5+4=9
+
+k=4 
+incrementa k para 5
+SOMA= 9+5=14
+
+k=5 
+incrementa k para 6
+SOMA= 14+6=20
+
+k=6
+incrementa k para 7
+SOMA= 20+7=27
+
+k=7 
+incrementa k para 8
+SOMA= 27+8=35
+
+k=8 
+incrementa k para 9
+SOMA= 35+9=44
+
+k=9 
+incrementa k para 10
+SOMA= 44+10=54
+
+k=10 
+incrementa k para 11
+SOMA= 54+11=65
+
+k=11 
+incrementa k para 12
+SOMA= 65+12=77
+
+
+
+
+
